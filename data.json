@@ -1,0 +1,145 @@
+{
+ "shop": {
+  "name": "CHHANNULAL WASTRA BHANDAR",
+  "logo": "xmvbxq2yzeyt.jpg",
+  "aboutImg": "xmvbxqb0std8.jpg",
+  "notice": "",
+  "insta": "",
+  "tagline": "Suiting, shirting, sarees, lehengas and suits, all under one roof.",
+  "address": "Your street, Your city",
+  "phone": "+91 7054293098",
+  "whatsapp": "+91 7054293098",
+  "email": "chhannulalwastrabhandar@gmail.com",
+  "hours": "Mon–Sat, 9 am – 9 pm",
+  "about": "Write your shop's story here: when you started, who you serve and what makes your fabrics and designs special."
+ },
+ "cats": [
+  {
+   "id": "suiting",
+   "name": "Suiting",
+   "blurb": "Premium fabrics for suits and trousers",
+   "img": "xmvbxr36682y.jpg",
+   "color": "#2f3a56"
+  },
+  {
+   "id": "shirting",
+   "name": "Shirting",
+   "blurb": "Cotton, linen and blends for shirts",
+   "img": "",
+   "color": "#5f7a8a"
+  },
+  {
+   "id": "saree",
+   "name": "Saree",
+   "blurb": "Silk, cotton and festive sarees",
+   "img": "",
+   "color": "#8a2c4c"
+  },
+  {
+   "id": "lehenga",
+   "name": "Lehenga",
+   "blurb": "Bridal and occasion lehengas",
+   "img": "",
+   "color": "#b5533c"
+  },
+  {
+   "id": "suits",
+   "name": "Suits",
+   "blurb": "Ladies salwar suits and dress materials",
+   "img": "",
+   "color": "#4f7a5a"
+  }
+ ],
+ "prods": [
+  {
+   "id": "p1",
+   "name": "Charcoal Wool Blend",
+   "cat": "suiting",
+   "price": "₹850 / metre",
+   "img": "",
+   "desc": "Fine wool-blend suiting, ideal for formal suits.",
+   "feat": true
+  },
+  {
+   "id": "p2",
+   "name": "Navy Pinstripe",
+   "cat": "suiting",
+   "price": "₹990 / metre",
+   "img": "",
+   "desc": "Classic pinstripe with a smooth drape.",
+   "feat": false
+  },
+  {
+   "id": "p3",
+   "name": "White Egyptian Cotton",
+   "cat": "shirting",
+   "price": "₹420 / metre",
+   "img": "",
+   "desc": "Soft, breathable cotton for everyday shirts.",
+   "feat": true
+  },
+  {
+   "id": "p4",
+   "name": "Blue Linen Shirting",
+   "cat": "shirting",
+   "price": "₹520 / metre",
+   "img": "",
+   "desc": "Light linen, perfect for summer.",
+   "feat": false
+  },
+  {
+   "id": "p5",
+   "name": "Kanjeevaram Silk",
+   "cat": "saree",
+   "price": "₹8,999",
+   "img": "",
+   "desc": "Pure silk with a woven zari border.",
+   "feat": true
+  },
+  {
+   "id": "p6",
+   "name": "Cotton Handloom",
+   "cat": "saree",
+   "price": "₹1,899",
+   "img": "",
+   "desc": "Lightweight handloom for daily wear.",
+   "feat": false
+  },
+  {
+   "id": "p7",
+   "name": "Red Bridal Lehenga",
+   "cat": "lehenga",
+   "price": "₹24,999",
+   "img": "",
+   "desc": "Heavy embroidery with a matching dupatta.",
+   "feat": true
+  },
+  {
+   "id": "p8",
+   "name": "Pastel Party Lehenga",
+   "cat": "lehenga",
+   "price": "₹12,499",
+   "img": "",
+   "desc": "Light, elegant lehenga for parties and sangeet.",
+   "feat": false
+  },
+  {
+   "id": "p9",
+   "name": "Embroidered Salwar Suit",
+   "cat": "suits",
+   "price": "₹2,499",
+   "img": "",
+   "desc": "Three-piece suit with chiffon dupatta.",
+   "feat": false
+  },
+  {
+   "id": "p10",
+   "name": "Cotton Printed Suit",
+   "cat": "suits",
+   "price": "₹1,299",
+   "img": "",
+   "desc": "Comfortable printed suit for daily wear.",
+   "feat": false
+  }
+ ]
+}
